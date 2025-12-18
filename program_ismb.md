@@ -6,9 +6,15 @@ back_title: ISMB
 back_url: ismb
 ---
 
-# BioVis@ISMB 2025 Program
+# BioVis@ISMB 2026 Program
 
 {{ site.ismb_cosi_date }}
+
+To be announced.
+
+{% comment %}
+
+<!-- Old content kept for reference -->
 
 ## Invited Speakers
 
@@ -111,3 +117,5 @@ dynamical systems, computational geometry, and combinatorial topology.
 ## Program
 
 {% include_relative program_ismb_timetable.html %}
+
+{% endcomment %}
