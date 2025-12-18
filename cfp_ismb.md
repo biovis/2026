@@ -23,7 +23,7 @@ We invite submissions of original research articles as well as poster and talk s
 
 ## Symposium Format
 
-The symposium will be a one-day single-track event at [{{ site.ismb_conference_name }}]({{ site.ismb_conference_link }}). It will feature keynotes and invited talks, paper sessions, highlight talks, and posters/demos. Primers will also be given to introduce key topics in visualization research.
+The symposium will be a one-day single-track event at [{{ site.ismb_conference_name }}]({{ site.ismb_conference_link }}). It will feature keynotes and invited talks, paper sessions, highlight talks, and posters/demos.
 
 ## Topics
 
@@ -58,7 +58,7 @@ Novel, unpublished work can be submitted as a paper to the ISMB Proceedings. If 
 
 Authors are required to submit a full paper by <time>{{ site.ismb_paper_submission_deadline }}</time> through the [ISMB proceedings submission site]({{ site.ismb_paper_submission_link }}), and must adhere to the submission guidelines also outlined on [the same page]({{ site.ismb_paper_submission_link }}).
 
-**During submission, please make sure to specify “BioVis" as the “TOPIC” (or primary COSI) of your submission to ensure your manuscript is assigned to our COSI.**
+During submission, please make sure to specify “BioVis” as the “TOPIC” (or primary COSI) of your submission to ensure your manuscript is assigned to our COSI.
 
 We encourage the use of digital video to enhance paper submissions, particularly if part or all of the work addresses interactive techniques. However, please note that OUP does not support videos as supplementary materials, so you will have to host the video elsewhere (e.g., YouTube).
 

@@ -1,16 +1,16 @@
 # Site settings
-title: "BioVis 2025"
+title: "BioVis 2026"
 email: "website@biovis.net"
 description: "Biological Data Visualization"
-baseurl: "/2025"
+baseurl: "/2026"
 url: "http://biovis.net"
-conferenceshort: "BioVis 2025"
+conferenceshort: "BioVis 2026"
 
 IEEE_conference_date: "November 2 - 7, 2025"
 IEEE_conference_place: "Vienna, Austria"
 IEEE_challenge_date: "November 2, 2025"
 
-year: 2025
+year: 2026
 
 # Old deadlines so I remember what they're called
 # When everything breaks
@@ -18,30 +18,30 @@ IEEE_deadline_submission: "August 22, 202 "
 IEEE_deadline_notification: "September 5, 2025"
 IEEE_deadline_camera: "September 26, 2025"
 
-ismb_conference_name: "ISMB/ECCB 2025"
-ismb_conference_link: "https://www.iscb.org/ismbeccb2025"
-ismb_conference_registration_link: "https://www.iscb.org/ismbeccb2025/register"
-ismb_conference_date: "July 20 - 25, 2025"
-ismb_conference_place: "Liverpool, UK - ACC Liverpool"
-ismb_conference_key_dates_link: "https://www.iscb.org/ismbeccb2025/key-dates"
+ismb_conference_name: "ISMB 2026"
+ismb_conference_link: "https://www.iscb.org/ismb2026"
+ismb_conference_registration_link: "https://www.iscb.org/ismb2026/register"
+ismb_conference_date: "July 12 - 16, 2026"
+ismb_conference_place: "Washington, DC, USA"
+ismb_conference_key_dates_link: "https://www.iscb.org/ismb2026/key-dates"
 
-ismb_cosi_date: "July 24, 2025"
+ismb_cosi_date: "July 16, 2026"
 
-ismb_paper_submission_deadline: "January 23, 2025"
-ismb_paper_conditional_acceptance: "March 13, 2025"
-ismb_paper_revision_deadline: "March 27, 2025"
-ismb_paper_final_acceptance: "April 2, 2025"
+ismb_paper_submission_deadline: "January 20, 2026"
+ismb_paper_conditional_acceptance: "March 10, 2026"
+ismb_paper_revision_deadline: "March 24, 2026"
+ismb_paper_final_acceptance: "April 2, 2026"
 
-ismb_talk_submission_deadline: "April 17, 2025"
-ismb_talk_acceptance: "May 13, 2025"
+ismb_talk_submission_deadline: "April 9, 2026"
+ismb_talk_acceptance: "May 5, 2026"
 
-ismb_poster_submission_deadline: "April 17, 2025"
-ismb_poster_acceptance: "May 13, 2025"
-ismb_poster_late_submission_deadline: "May 15, 2025"
-ismb_poster_late_acceptance: "May 22, 2025"
+ismb_poster_submission_deadline: "April 9, 2026"
+ismb_poster_acceptance: "May 5, 2026"
+ismb_poster_late_submission_deadline: "May 7, 2026"
+ismb_poster_late_acceptance: "May 14, 2026"
 
-ismb_paper_submission_link: "https://www.iscb.org/ismbeccb2025/call-for-submissions/proceedings"
-ismb_abstract_submission_link: "https://www.iscb.org/ismbeccb2025/call-for-submissions/abstracts"
+ismb_paper_submission_link: "https://www.iscb.org/ismb2026/call-for-submissions/proceedings"
+ismb_abstract_submission_link: "https://www.iscb.org/ismb2026/call-for-submissions/abstracts"
 
 #bmc_submission_deadline: ""
 #bmc_conditional_accept: ""
