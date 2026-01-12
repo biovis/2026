@@ -25,8 +25,9 @@ menu: main
 
 ### Abstracts Chairs
 
-[Jen Rogers](https://jenrogers.dev/), University of Utah, USA  
-[Robert Krueger](https://engineering.nyu.edu/faculty/robert-krueger), New York University, USA
+[Jen Rogers](https://jenrogers.dev/), University of Tufts and Merck, USA  
+[Robert Krueger](https://engineering.nyu.edu/faculty/robert-krueger), New York University, USA  
+[Kim Blenman](https://medicine.yale.edu/profile/kim-blenman/), Yale School of Medicine, USA
 
 ### ISMB Liaison Chairs
 
