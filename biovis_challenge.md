@@ -4,8 +4,42 @@ title: Bio+MedVis Challenge
 permalink: /biovisChallenges_vis/
 ---
 
-# Bio+MedVis Challenge @ IEEE VIS 2025
+# Bio+MedVis Challenge @ IEEE VIS 2026
 
+The Biological and Medical Visualization Challenge (Bio+Med+Vis Challenge) is an interactive workshop dedicated to inspiring and engaging researchers and students in the evolving field of biological and medical data visualization. As a continuation of the challenges held at IEEE VIS in previous years, we will be announcing two new challenges: a smaller scope redesign challenge and a more extensive main challenge.
+The redesign challenge will present participants with a visual representation used in the biomedical community that fails to communicate the desired information well (e.g., a cluttered graph or difficult-to-understand representation). Participants will then be asked to redesign the representation to better communicate the data. Most essential to this challenge is the exploration of creative, novel ideas. As such, sketching and prototyping, as well as fully interactive solutions, will be welcome.
+The main challenge will present participants with a complex biomedical dataset and several tasks related to this dataset. Participants will be asked to design a visualization or a visual analytics solution that addresses one or multiple of the presented tasks. The expected outcomes of this challenge are interactive prototypes or analytical workflows employing visualization.
+
+## Challenges
+Challenges for 2026 will be announced in April. In the meantime, you can take a look at the challenges from the previous years:
+[2025](http://biovis.net/2025/biovisChallenges_vis/), [2024](http://biovis.net/2024/biovisChallenges_vis/), [2023](http://biovis.net/2023/biovisChallenges_vis/),
+[2022](http://biovis.net/2022/biovisChallenges_vis/)
+
+## Submission
+To participate in the challenge, authors will be asked to submit a two-page PDF abstract with up to 5 additional figures. The abstract should include:
+ - a thorough **description and justification** of visualization (and analysis) techniques – we encourage the authors use the space to describe their approach, and keep background and data detail descriptions to a minimum (since this is the part of the challenge definition),
+ - at least one or more **images** of the visualization,
+ - we encourage the authors to submit a supplementary **video or screencast** (up to five minutes) to explain the visualization approach. 
+
+## Evaluation
+All submissions will be evaluated in a single round revision process by at least two reviewers, coming from the challenge chairs and selected domain experts. Accepted submissions will be invited to present their results as a talk at the challenge workshop at IEEE VIS 2026 and, optionally, also as a poster at IEEE VIS 2026, and will be published on the challenge website after the conference. They will also have an opportunity to get in touch with the challenge authors to pursue extended follow-up publications. 
+
+Strong, creative submissions have the potential for recognition with an **Award of Merit** or an **Award of Excellence**. 
+Awards, at the discretion of evaluators, may be given according to the primary author’s status as a **_Student_** (BSc/MSc) or **_Researcher/Professional_**
+(PhD and up). In the case of many submissions, Challenge organizers may further subdivide these status categories to better weigh the contribution against the
+experience of the submitters.
+
+## Questions?
+
+Please feel free to send any questions to: [biovis_challenge@ieeevis.org](mailto:biovis_challenge@ieeevis.org).
+
+Chairs of the Bio+MedVis Challenge @ IEEE VIS 2026:
+
+-   [Katarina Furmanova](https://www.muni.cz/en/people/374538-katarina-furmanova), Masaryk University, Czech Republic
+-   [Daniel Haehn](https://danielhaehn.com/), University of Massachusetts Boston, USA
+-   [Robert Krueger](https://kruegert.github.io/), New York University, USA
+
+<!--
 ### Sunday, November 2, 2025, 9:00 AM - 12:30 PM (CET)
 
 ### Keynote Talk
@@ -23,6 +57,7 @@ _[Stefan Bruckner](https://sbruckner.github.io/), Professor, Chair of Visual Ana
 ## Program
 
 [View the program and submissions here]({{site.baseurl}}/program_ieee/).
+
 
 ## Challenges
 
@@ -324,13 +359,5 @@ experience of the submitters.
 -   Notification: September 5, 2025
 -   Camera-ready version: September 26, 2025
 -   Bio+MedVis Challenge event: November 2, 2025
+-->
 
-## Questions?
-
-Please feel free to send any questions to: [biovis_challenge@ieeevis.org](mailto:biovis_challenge@ieeevis.org).
-
-Chairs of the Bio+MedVis Challenge @ IEEE VIS 2025:
-
--   [Laura Garrison](https://www.laura-garrison.com/), University of Bergen, Norway
--   [Katarina Furmanova](mailto:katarina.furmanova@gmail.com), Masaryk University, Czech Republic
--   [Simon Warchol](https://simonwarchol.com/), Harvard University, USA
