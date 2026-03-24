@@ -37,12 +37,9 @@ menu: main
 
 ### Chairs
 
-[Barbora Kozlikova](https://www.fi.muni.cz/~xkozlik/), Masaryk University, Czech Republic  
-[Nils Gehlenborg](https://dbmi.hms.harvard.edu/people/nils-gehlenborg), Harvard Medical School, USA  
-[Laura Garrison](https://www.laura-garrison.com/), University of Bergen, Norway  
-[Eric Mörth](https://dbmi.hms.harvard.edu/people/eric-moerth), Harvard Medical School, USA  
-[Simon Warchol](https://simonwarchol.com/), Harvard University, USA  
-[Morgan Turner](https://morganlturner.com/), Harvard Medical School, USA
+[Katarína Furmanová](https://www.muni.cz/en/people/374538-katarina-furmanova), Masaryk University, Czech Republic  
+[Daniel Haehn](https://danielhaehn.com/), University of Massachusetts Boston, USA  
+[Robert Krueger](https://kruegert.github.io/), New York University, USA  
 
 ## BioVis Meetup {{site.year}}
 
