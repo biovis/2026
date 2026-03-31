@@ -52,6 +52,7 @@ menu: main
 
 [Jan Aerts](http://vda-lab.be), KU Leuven and U Hasselt, Belgium  
 [Jan Byska](https://vis.uib.no/team/jan-byska/), Masaryk University, Czech Republic and University of Bergen, Norway  
+[Laura Garrison](https://www.laura-garrison.com/), Dept of Informatics, University of Bergen, Norway  
 [Helena Jambor](https://helenajambor.wordpress.com/), TU Dresden, Germany  
 [Michael Krone](https://www.hft-stuttgart.de/p/michael-krone), Stuttgart Technical University of Applied Sciences, Germany  
 [G. Elisabeta Marai](https://www.evl.uic.edu/marai/), University of Illinois at Chicago, USA  
