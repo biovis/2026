@@ -1,49 +1,95 @@
 ---
 layout: page
-title: Bio+MedVis Challenge
-permalink: /biovisChallenges_vis/
+title: Bio+MedVis Challenge - Exploration of Mammography Dataset
+permalink: /biovisChallenges_vis/challenge_2/
 ---
 
-# Bio+MedVis Challenge @ IEEE VIS 2026
+# Visual exploration of mammography dataset
 
-Interested in some hands-on practice with visualizing complex biological and medical data? The Bio+MedVis Challenge is a great opportunity to explore and ideate on new, exciting ways to make sense of high-dimensional datasets from simulations and medical imaging! This year, we have two exciting challenges:
+OMAMA-DB is a large public mammography dataset designed to support research in breast cancer screening, medical image analysis, and machine learning. It combines 2D full-field digital mammography (FFDM) images and 3D digital breast tomosynthesis (DBT) volumes, together with pathology-based cancer labels and automated lesion annotations. The dataset was created to address a major gap in the field: while mammography is one of the most important tools for early breast cancer detection, publicly accessible datasets are often either too small, incomplete, or difficult to obtain for broad computational research. OMAMA-DB was introduced to provide a large-scale, curated resource that can be used both for algorithm development and for visual analytics research. The attached paper describing the dataset will soon appear as:
 
-<div style="float: left; margin: 0 1em 0 0; max-height: 100%;">
-    <img src="{{site.baseurl}}/images/biovis-challenge/image8.png" alt="Challenge 1 illustration" style="display: block; max-height: 100%; height: 110px;" />
+Kanamarlapudi, A., Zurrin, R., Gaibor, E., Bendiksen Gutierrez, B., Goyal, N., Narayanappa, V. S., Simovici, D., Haspel, N., Pomplun, M., Lee, H., Bandler, M., Sorensen, G., & Haehn, D. OMAMA-DB: The Oregon–Massachusetts Mammography Database. Journal of Medical Imaging (JMI), 2026.
+
+Starting from an institutional collection of 967,991 images, the creators of OMAMA-DB applied a multi-stage curation pipeline to remove images with missing labels, uncommon dimensions, rare scanner types, duplicate studies, corrupted files, and low-quality outliers. The final curated dataset contains 231,080 images in total, including 163,568 2D mammograms and 67,512 3D tomosynthesis volumes. It includes 7,351 cancer cases in the 2D subset and 374 cancer cases in the 3D subset, making it one of the largest publicly available datasets of its kind.
+
+The 2D subset is available in multiple resolutions for rapid prototyping and training, while the 3D subset is provided separately due to its large size. Each image is stored in compressed NumPy format and paired with a JSON metadata file. The dataset is hosted on Harvard Dataverse, with separate persistent identifiers for the 2D and 3D subsets.
+
+## Metadata 
+
+Each image in OMAMA-DB is accompanied by structured JSON metadata. This metadata includes patient and acquisition information such as mammographic view, laterality, pixel spacing, and display window settings, as well as lesion information in the form of bounding box coordinates, confidence scores, and pathology-derived labels. The dataset includes the four standard mammography screening views: left and right craniocaudal (CC) and left and right mediolateral oblique (MLO). It is relatively balanced across view types and laterality, and it includes both 2D and 3D modalities, which makes it especially suitable for comparative analysis and visualization tasks.
+
+A key component of the dataset is the automated cancer lesion annotation generated with DeepSight, a research version of the FDA-cleared Saige-Dx system. For each image, DeepSight detects suspicious regions and produces bounding boxes with confidence scores indicating the likelihood of malignancy. These annotations are stored as JSON metadata alongside the images.
+
+Below is an outline of the metadata content:  
+- **PatientID**: A unique identifier for the patient associated with the image.
+- **View**: The mammographic view (e.g., cranio-caudal) that the image represents. 
+- **WindowCenter**: An array indicating the center pixel values used for windowing the image, which affects image brightness. Multiple values represent different window settings.
+- **WindowWidth**: An array indicating the width of the windowing range, which affects the contrast of the image. Multiple values correspond to the center values for different contrast settings.
+- **WindowCenterWidthExplanation**: Descriptions corresponding to the 'WindowCenter' and 'WindowWidth' settings, which may indicate standard or altered viewing conditions like 'NORMAL', 'HARDER', or 'SOFTER'.
+- **ImagerPixelSpacing**: The physical distance covered by each pixel in the image, specified in millimeters (e.g., [0.1, 0.1] would mean each pixel represents a 0.1mm by 0.1mm area).
+- **ImageLaterality**: The side of the body that the image represents, 'R' for right and 'L' for left.
+- **Coords**: The coordinates of the region of interest within the image, typically representing a bounding box around a lesion or area of interest (format: [x1, y1, x2, y2]). For 3D, there is a 'Slice' key which indicates where the 2D ROI is placed.
+- **Score**: A confidence score (ranging from 0 to 1) indicating the likelihood of the presence of a lesion or other significant feature within the region of interest.
+- **Label**: The cancer classification of the image.
+
+**2D Dataset Statistics**
+- Image Count: 165368
+- Patient Count: 157810
+- Cancer Count: 7351
+- Deepsight Valid Score: 4371
+- CC Count: 83379
+- MLO Count: 80163
+- L Count: 81523
+- R Count: 82045
+
+**3D Dataset Details**
+- Image Count: 67,512
+- Patient Count: 15,149
+- Cancer Count: 374
+- Deepsight Valid Score: 270
+- CC Count: 32,621
+- MLO Count: 32,900
+- L Count: 33,892
+- R Count: 33,620
+
+
+<div style="width: 80%; margin: 0 auto;">
+<div style="display:grid; grid-template-columns:repeat(auto-fit, minmax(280px, 1fr)); gap:1rem; align-items:start;">
+    <figure style="margin:0;">
+        <img src="{{site.baseurl}}/images/biovis-challenge/b1.png" alt="cancer annotations" style="width:92%; height:auto;" />
+    </figure>
+    <figure style="margin:0;">
+        <img src="{{site.baseurl}}/images/biovis-challenge/b2.png" alt="cancer annotations" style="width:100%; height:auto;" />
+    </figure>
+    
 </div>
-**Challenge 1:** This challenge is focused on adaptive molecular dynamics simulation data, which is used to explore how biomolecules change their structure and interact with other molecules over time. These simulations can reveal important changes and are essential to drug design. However, they generate large and abstract datasets that make it difficult to explore the changes, compare trajectories, or reason about molecular behavior across entire ensembles.   
-[Lear more]({{site.baseurl}}/biovisChallenges_vis/challenge_1/) abut the data and the challenge tasks.
-
-<div style="float: left; margin: 0 1em 0 0; max-height: 100%;">
-    <img src="{{site.baseurl}}/images/biovis-challenge/b1.png" alt="Challenge 1 illustration" style="display: block; max-height: 100%; height: 110px;" />
+<figcaption style="text-align: center;">
+    Example data with cancer annotations, including image artifacts. 
+    </figcaption>
 </div>
-**Challenge 2:** A challenge based on OMAMA-DB, a large public dataset of 2D and 3D mammography images of the human breast, combined with metadata, pathology labels, and automated lesion annotations. While this data supports large-scale analysis, it is difficult to explore beyond individual cases, making it challenging to spot patterns, compare annotations, and understand how image data, metadata, and AI-generated labels relate to each other.  
-[Lear more]({{site.baseurl}}/biovisChallenges_vis/challenge_2/) abut the data and the challenge tasks.
 
-While some of the tasks in these challenges involve the design of an **interactive visualization system**, we also welcome submissions with a smaller scope, such as **sketches of novel visualization designs** and **prototypes** that do not have to be fully developed.  
 
-The authors of accepted submissions will have the opportunity to present their work at the Bio+MedVis Challenge event - a half a day workshop collocated with [IEEE VIS 2026](https://ieeevis.org/year/2026/welcome/) conference (November 9-13, 2026, Boston, USA).
+## Tasks
+While OMAMA-DB provides a rich and large-scale collection of mammography images together with metadata, pathology labels, and automated lesion annotations, current analysis workflows are typically limited to model training, quantitative evaluation, or inspection of individual cases. There is a strong need for visual analytics approaches that support understanding this dataset at scale while still enabling detailed inspection.
 
-## Submission
-Each submission is expected to address one or multiple tasks from one of these challenges. If the authors/teams wish to participate in both challenges, they should prepare two separate submissions. To participate, authors will be asked to submit a two-page PDF abstract with up to 5 additional figures. The abstract should include:
- - a thorough **description and justification** of visualization (and analysis) techniques – we encourage the authors use the space to describe their approach, and keep background and data detail descriptions to a minimum (since this is the part of the challenge definition),
- - at least one or more **images** of the visualization,
- - we encourage the authors to submit a supplementary **video or screencast** (up to five minutes) to explain the visualization approach. 
+We thus challenge you to address one or multiple of the following tasks:
+- **T1: Identify artifacts, low-quality images, and outliers.** The dataset was curated using multiple filtering stages, including automated outlier detection. However, artifacts, acquisition inconsistencies, and unusual intensity patterns may still be present. Develop visualization and interaction techniques that help identify, characterize, and explore such outliers across the dataset. For example, can systematic quality issues related to scanners, acquisition settings, or image types be detected and revealed?
 
-## Important Dates
+- **T2: Compare automated annotations with pathology-based labels.** Each image includes pathology-derived labels (NonCancer, PreIndexCancer, IndexCancer) as well as automated lesion annotations with confidence scores. Design approaches that help analyze the relationship between these sources of information. For example, can discrepancies between annotation confidence and ground truth be identified and explained? Can visualization support the detection of false positives, false negatives, or uncertain cases?
 
-- Submission: mid-August, 2026 (to be specified)
-- Notification: TBA
-- Camera-ready version: TBA
-- Bio+MedVis Challenge event: November 9-13, 2026 (half a day event at IEEE VIS 2026)
+- **T3: Explore structure across image types and acquisition context.** OMAMA-DB includes multiple modalities and standardized views (CC vs. MLO, left vs. right, 2D vs. 3D). Develop methods to reveal patterns, similarities, and differences across these categories. For example, can participants identify clusters of images with similar characteristics or uncover systematic differences between modalities or views?
 
-## Evaluation
-All submissions will be evaluated in a single round revision process by at least two reviewers, coming from the challenge chairs and selected domain experts. Accepted submissions will be invited to present their results as a talk at the challenge workshop at IEEE VIS 2026 and, optionally, also as a poster at IEEE VIS 2026, and will be published on the challenge website after the conference. They will also have an opportunity to get in touch with the challenge authors to pursue extended follow-up publications. 
+- **T4: Design a generic visual analytics approach for image + metadata + AI labels.** The dataset combines high-dimensional image data with structured metadata and automatically generated annotations. We encourage participants to propose general-purpose visual analytics solutions that integrate these components. The goal is to support both overview and detailed exploration, enabling users to navigate between dataset-level patterns and individual cases, and to better understand the behavior and limitations of AI-based labeling methods.
 
-Strong, creative submissions have the potential for recognition with an **Award of Merit** or an **Award of Excellence**. 
-Awards, at the discretion of evaluators, may be given according to the primary author’s status as a **_Student_** (BSc/MSc) or **_Researcher/Professional_**
-(PhD and up). In the case of many submissions, Challenge organizers may further subdivide these status categories to better weigh the contribution against the
-experience of the submitters.
+## Dataset
+The full dataset can be found here: [https://dataverse.harvard.edu/dataverse/omama](https://dataverse.harvard.edu/dataverse/omama).  
+Follow [these instructions](https://github.com/IQSS/dataverse.harvard.edu/blob/master/doc/globus/download-quickstart.md) to access the data.
+
+For a glance at a sample data, you can check out [this notebook](https://colab.research.google.com/drive/1lII_-I2Ymv1m0AlFgKu7MgofqCDTI4S9?usp=sharing#scrollTo=9XWs67bVN4gV).  
+
+## Related Work
+Lekschas, Fritz, Xinyi Zhou, Wei Chen, Nils Gehlenborg, Benjamin Bach, and Hanspeter Pfister. "A generic framework and library for exploration of small multiples through interactive piling." IEEE Transactions on Visualization and Computer Graphics 27, no. 2 (2020): 358-368. [https://doi.org/10.1109/TVCG.2020.3028948](https://doi.org/10.1109/TVCG.2020.3028948)
+
 
 ## Questions?
 
