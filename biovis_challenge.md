@@ -12,13 +12,13 @@ Interested in some hands-on practice with visualizing complex biological and med
     <img src="{{site.baseurl}}/images/biovis-challenge/image8.png" alt="Challenge 1 illustration" style="display: block; max-height: 100%; height: 110px;" />
 </div>
 **Challenge 1:** This challenge is focused on adaptive molecular dynamics simulation data, which is used to explore how biomolecules change their structure and interact with other molecules over time. These simulations can reveal important changes and are essential to drug design. However, they generate large and abstract datasets that make it difficult to explore the changes, compare trajectories, or reason about molecular behavior across entire ensembles.   
-[Lear more]({{site.baseurl}}/biovisChallenges_vis/challenge_1/) abut the data and the challenge tasks.
+[Learn more]({{site.baseurl}}/biovisChallenges_vis/challenge_1/) abut the data and the challenge tasks.
 
 <div style="float: left; margin: 0 1em 0 0; max-height: 100%;">
     <img src="{{site.baseurl}}/images/biovis-challenge/b1.png" alt="Challenge 1 illustration" style="display: block; max-height: 100%; height: 110px;" />
 </div>
 **Challenge 2:** A challenge based on OMAMA-DB, a large public dataset of 2D and 3D mammography images, combined with metadata, pathology labels, and automated lesion annotations. While this data supports large-scale analysis, it is difficult to explore beyond individual cases, making it challenging to spot patterns, compare annotations, and understand how image data, metadata, and AI-generated labels relate to each other.  
-[Lear more]({{site.baseurl}}/biovisChallenges_vis/challenge_2/) abut the data and the challenge tasks.
+[Learn more]({{site.baseurl}}/biovisChallenges_vis/challenge_2/) abut the data and the challenge tasks.
 
 While some of the tasks in these challenges involve the design of an **interactive visualization system**, we also welcome submissions with a smaller scope, such as **sketches of novel visualization designs** and **prototypes** that do not have to be fully developed.  
 
