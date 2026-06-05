@@ -25,17 +25,26 @@ While some of the tasks in these challenges involve the design of an **interacti
 The authors of accepted submissions will have the opportunity to present their work at the Bio+MedVis Challenge event - a half-day workshop collocated with [IEEE VIS 2026](https://ieeevis.org/year/2026/welcome/) conference (November 9-13, 2026, Boston, USA).
 
 ## Submission
-Each submission is expected to address one or multiple tasks from one of these challenges. If the authors/teams wish to participate in both challenges, they should prepare two separate submissions. To participate, authors will be asked to submit a two-page PDF abstract with up to 5 additional figures. The abstract should include:
+Each submission is expected to address one or multiple tasks from one of these challenges. If the authors/teams wish to participate in both challenges, they should prepare two separate submissions. To participate, authors will be asked to submit a two-page PDF abstract (plus an extra page for references) with up to 5 additional figures. The abstract should include:
  - a thorough **description and justification** of visualization (and analysis) techniques – we encourage the authors to use the space to describe their approach, and keep background and data detail descriptions to a minimum (since this is the part of the challenge definition),
  - at least one or more **images** of the visualization,
- - we encourage the authors to submit a supplementary **video or screencast** (up to five minutes) to explain the visualization approach. 
+ - we encourage the authors to submit a supplementary **video or screencast** (up to five minutes) to explain the visualization approach.
+ - The two-page abstract must be formatted according to the [IEEE VGTC Conference Style Paper Guidelines](https://tc.computer.org/vgtc/publications/conference/).
 
 ## Important Dates
+### Proceedings (pending approval)
+We are currently negotiating the possibility of publishing the conference proceedings in IEEE Xplore. For submission to be considered for publication in proceedings in addition to conference presentation, the following deadlines apply (these deadlines are strict; no extension is possible due to the publisher's timeline).
+- Submission: August 4th, 2026
+- Notification: August 12th, 2026
+- Camera-ready version: August 19th, 2026
+- Bio+MedVis Challenge event: November 9-13, 2026 (half a day event at IEEE VIS 2026, precise date to be specified)
+### Conference presentation only
+We offer an extended deadline for submissions that will be considered only for the conference presentation and will not be included in proceedings.
+- Submission: late August, 2026
+- Notification & camera-ready version: September, 2026
+- Bio+MedVis Challenge event: November 9-13, 2026 (half a day event at IEEE VIS 2026, precise date to be specified)
 
-- Submission: mid-August, 2026 (to be specified)
-- Notification: TBA
-- Camera-ready version: TBA
-- Bio+MedVis Challenge event: November 9-13, 2026 (half a day event at IEEE VIS 2026)
+All submissions should follow the same guidelines specified above and will be considered as equal contenders for the challenge.
 
 ## Evaluation
 All submissions will be evaluated in a single round revision process by at least two reviewers, coming from the challenge chairs and selected domain experts. Accepted submissions will be invited to present their results as a talk at the challenge workshop at IEEE VIS 2026 and, optionally, also as a poster at IEEE VIS 2026, and will be published on the challenge website after the conference. They will also have an opportunity to get in touch with the challenge authors to pursue extended follow-up publications. 
