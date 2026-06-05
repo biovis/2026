@@ -10,109 +10,98 @@ back_url: ismb
 
 {{ site.ismb_cosi_date }}
 
-To be announced.
-
-{% comment %}
-
-<!-- Old content kept for reference -->
+Detailed program to be announced.
 
 ## Invited Speakers
 
 ### The Visual Genome: An attempt to classify multi-omics visualization
 
 <figure class="speaker-photo">
-    <img src="{{ site.baseurl }}/images/speakers/Portrait_KayNieselt.jpeg" alt="Kay Nieselt" />
-    <figcaption>Kay Nieselt</figcaption>
+    <img src="{{ site.baseurl }}/images/speakers/jean_fan.jpg" alt="Jean Fan" />
+    <figcaption>Jean Fan</figcaption>
 </figure>
 
-[Kay Nieselt](https://www.phd.tuebingen.mpg.de/35127/kay-nieselt), University of Tübingen, Germany
+[Jean Fan](https://jean.fan/), Johns Hopkins University, USA
 
 **Abstract:**
-Over the past decades, advances in biology and medicine—driven by
-high-throughput and high-resolution experimental methods—have underscored the
-critical role of visualization in interpreting and communicating complex
-biological data. The interplay between life sciences and the visualization
-domain has revealed a deep and natural synergy, where visual analytics has
-become indispensable for discovery and insight.
-
-In this talk, I will reflect on nearly 30 years of experience in developing
-visual analytics solutions for large-scale biological data, with a particular
-focus on multi-omics visualization. I will present a conceptual framework for
-classifying multi-omics visualizations and illustrate it through selected
-examples from tools developed by my research group. These range from
-genome-level visualizations to tools for exploring quantitative omics and
-epiproteomics data.
-
-I will also introduce [TueVis](https://tuevis.cs.uni-tuebingen.de), a web-based
-resource developed and maintained by my group, offering interactive,
-user-friendly visualization tools spanning multiple omics layers. Designed for
-researchers in bioinformatics and the life sciences, TueVis aims to lower the
-barrier to high-quality data exploration and interpretation. The talk will
-conclude with a perspective on emerging challenges and opportunities in the
-evolving field of multi-omics visualization.
+Advances in high-throughput spatial transcriptomics (ST) technologies enable
+high-throughput molecular profiling of cells while maintaining their spatial
+organization within tissues. Such high-throughput ST data demand new
+computational analyses and visualization approaches to identify and highlight
+genes that spatially change in their expression patterns between conditions,
+such as in diseased versus healthy tissues. In this talk, I will provide an
+overview of the latest ST computational analysis methods developed by my lab. In
+particular, to facilitate spatial molecular comparisons across structurally
+matched tissue sections from replicates, case-control settings, and within and
+across technologies, we previously develop STalign to align ST datasets in a
+manner that accounts for partially matched tissue sections and other local
+non-linear distortions using diffeomorphic metric mapping. Likewise, to enhance
+the scalability of ST data analysis, we developed a rasterization preprocessing
+framework called SEraster that aggregates cellular information into spatial
+pixels. More recently, we developed STcompare to integrate STalign and SEraster
+into a statistical framework for comparative analysis of ST data by testing for
+and visualizing differences in spatial correlation and spatial fold-change
+across structurally matched locations while robustly controls for false
+positives even in the presence of spatial autocorrelation common in ST data.
+Alternatively, to facilitate spatial molecular comparisons across structurally
+unmatched tissues, we previously developed CRAWDAD, Cell-type Relationship
+Analysis Workflow Done Across Distances, to quantify and visualize cell-type
+spatial relationships across multiple length scales. We have applied CRAWDAD to
+compare cell-type spatial organizations across samples as well as across
+functional tissue units within samples. Overall, we anticipate that such
+computational methods for analyzing and visualizing trends in ST data will
+contribute to important biological insights regarding spatial molecular changes
+across comparative axes of interest.
 
 **Speaker Bio:**
-Kay Nieselt is a Professor of Bioinformatics at the University of Tübingen,
-where she leads the research group Integrative Transcriptomics. She earned her
-Ph.D. in Mathematics from the University of Bielefeld, Germany. During her
-doctoral work on modeling virus evolution, she began developing visual analytics
-methods for large-scale biological data—an area that would become a central
-theme of her research.
+Jean Fan is an associate professor of Biomedical Engineering in the Center for
+Computational Biology at Johns Hopkins University. Her research team, the
+JEFworks lab, is interested in understanding the molecular and
+spatial-contextual factors shaping cellular identity and heterogeneity. She
+develops new open-source computational software for analyzing spatially-resolved
+multi-omic and imaging data that can be tailored and applied to diverse cancer
+types and biological systems. Dr. Fan is also the founder, director, and lead
+software developer for the non-profit organization CuSTEMized, which provides
+personalized STEM picture storybooks to encourage young girls to see themselves
+as scientists. She also serves as a Genomics section editor for PLoS
+Computational Biology. The impact of Dr. Fan’s work has been recognized by
+several awards and honors, including the Forbes 30 Under 30, the Nature Research
+Award for Inspiring Science, the NSF CAREER Award, and the Presidential Early
+Career Award for Scientists and Engineers (PECASE).
 
-Her work spans a broad range of bioinformatics domains, including integrative
-analysis of genomics (with a focus on paleogenomics), transcriptomics, and other
-omics data types. She is particularly recognized for her contributions to the
-visualization of large-scale biological datasets and the application and
-development of machine learning methods for omics data interpretation. In 2012,
-her group was awarded the Illumina iDEA Challenge Award for the most creative
-algorithm handling large-scale next-generation sequencing data. Over the years,
-her team has developed numerous visual analytics tools tailored to multi-omics
-analysis, with a consistent emphasis on creating innovative yet user-friendly
-visualizations. These tools support diverse applications such as large-scale
-gene expression profiling, multiple genome alignments, pan-genome exploration,
-and integrative multi-omics data analysis.
-
-Kay Nieselt has been actively involved in the BioVis community since its
-inception in 2011, serving on both the program and steering committees. She
-chaired the BioVis Special Interest Group (SIG) at ISMB in 2014 and 2015 and
-subsequently served as the spokesperson for the BioVis COSI.
-
-### Visual Data Analysis Research in Biomedical Applications: Navigating the Line Between Scientific Novelty and Practical Impact
+### Healthy skepticism in AI: a BioVis research agenda
 
 <figure class="speaker-photo">
-    <img src="{{ site.baseurl }}/images/speakers/23_ingrid_hotz.jpeg" alt="Ingrid Hotz" />
-    <figcaption>Ingrid Hotz</figcaption>
+    <img src="{{ site.baseurl }}/images/speakers/liz_marai.avif" alt="Liz Marai" />
+    <figcaption>Liz Marai</figcaption>
 </figure>
 
-[Ingrid Hotz](https://liu.se/en/employee/ingho32), Linköping University, Sweden
+[Liz Marai](https://www.evl.uic.edu/marai/home/index.html), University of Illinois Chicago, USA
 
-**Abstract:** Visualization has a long-standing tradition in biomedical
-research, yet its potential as a tool for data exploration and analytical
-reasoning remains underused. In this talk, I will share results and experiences
-from recent interdisciplinary collaborations in this area, including projects
-on molecular dynamics, electronic structure modeling, and hypothesis generation
-in medicine. In addition to presenting results, I will reflect on the
-challenges of working across domains, the sometimes slow but often rewarding
-process of building trust, and the tension between scientific innovation in
-both fields and real-world applicability. These reflections also raise broader
-questions about research sustainability: When is a project complete, and when
-is it time to move on
+**Abstract:**
+Data visualization for Artificial intelligence (AI) research has historically
+focused on enhancing trust through visual explanations of AI, under the
+assumption that humans are critical users and unlikely adopters of AI. It is
+becoming clear that, in reality, human trust-levels in AI span a wide range,
+from critical to nearly blind acceptance. This talk will describe my group’s
+work in developing AI-powered computational oncology models, with a focus on the
+benefits and risks of AI solutions. I will then argue that the data
+visualization field should support both trust and healthy skepticism in AI
+solutions, while also being especially equipped to make AI models better
+colleagues to the human.
 
-**Speaker bio:** Ingrid Hotz is a professor of scientific visualization at Linköping
-University in Sweden. She received her M.S. degree in theoretical physics from
-Ludwig Maximilian University in Munich, Germany, and her Ph.D. in computer
-science from TU Kaiserslautern, Germany. After a postdoctoral position at the
-Institute for Data Analysis and Visualization (IDAV) at the University of
-California, she started an Emmy Noether research group at the Zuse Institute in
-Berlin. She then served for several years as the head of the scientific
-visualization group at the German Aerospace Center (DLR). The main focus of her
-research lies in the area of data analysis and scientific visualization,
-encompassing both fundamental research questions and practical solutions to
-visualization challenges in applications including physics, chemistry and
-medical imaging, and mechanical engineering—from small- to large-scale
-simulations. Her work draws on ideas and methods from various fields within
-computer science and mathematics, including computer graphics, computer vision,
-dynamical systems, computational geometry, and combinatorial topology.
+**Speaker bio:**
+Liz Marai is a professor of Computer Science, and a designated University of
+Illinois Scholar. Marai's research has been recognized by multiple prestigious
+awards, including a Test of Time Award, an NSF CAREER Award and several
+multi-site NSF and NIH awards as a lead investigator. She is the director of the
+UIC Institute for Health Data Science Research, and a chartered member of the US
+National Institutes of Health study section on clinical informatics and digital
+health. She has co-authored scientific open-source software adopted from Ghana
+to Canada, and she is an inventor whose ideas have been embedded into a medical
+instrument.
+
+{% comment %}
 
 ## Program
 
