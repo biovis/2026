@@ -38,6 +38,7 @@ We are currently negotiating the possibility of publishing the conference procee
 - Notification: August 12th, 2026
 - Camera-ready version: August 19th, 2026
 - Bio+MedVis Challenge event: November 9-13, 2026 (half a day event at IEEE VIS 2026, precise date to be specified)
+
 ### Conference presentation only
 We offer an extended deadline for submissions that will be considered only for the conference presentation and will not be included in proceedings.
 - Submission: late August, 2026
