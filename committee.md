@@ -50,7 +50,7 @@ menu: main
 
 ## Steering Committee
 
-[Jan Aerts](http://vda-lab.be), KU Leuven and U Hasselt, Belgium  
+[Jan Aerts](http://aida-lab.be/), KU Leuven, Belgium  
 [Jan Byska](https://vis.uib.no/team/jan-byska/), Masaryk University, Czech Republic and University of Bergen, Norway  
 [Laura Garrison](https://www.laura-garrison.com/), Dept of Informatics, University of Bergen, Norway  
 [Helena Jambor](https://helenajambor.wordpress.com/), TU Dresden, Germany  
