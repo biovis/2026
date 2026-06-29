@@ -25,7 +25,7 @@ While some of the tasks in these challenges involve the design of an **interacti
 The authors of accepted submissions will have the opportunity to present their work at the Bio+MedVis Challenge event - a half-day workshop collocated with [IEEE VIS 2026](https://ieeevis.org/year/2026/welcome/) conference (November 9-13, 2026, Boston, USA).
 
 ## Submission
-Each submission is expected to address one or multiple tasks from one of these challenges. If the authors/teams wish to participate in both challenges, they should prepare two separate submissions. To participate, authors will be asked to submit a two-page PDF abstract with up to 5 additional figures. The abstract should include:
+Each submission is expected to address one or multiple tasks from one of these challenges. If the authors/teams wish to participate in both challenges, they should prepare two separate submissions. The submissions are handled via the [PCS submission system](https://new.precisionconference.com/submissions). To start the submission, choose VGTC Society, VIS 2026 Conference/Journal, and VIS 2026 Bio+MedVis Challenge Track. To participate, authors will be asked to submit a two-page PDF abstract with up to 5 additional figures. The abstract should include:
  - a thorough **description and justification** of visualization (and analysis) techniques – we encourage the authors to use the space to describe their approach, and keep background and data detail descriptions to a minimum (since this is the part of the challenge definition),
  - at least one or more **images** of the visualization,
  - we encourage the authors to submit a supplementary **video or screencast** (up to five minutes) to explain the visualization approach.
