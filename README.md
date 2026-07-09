@@ -27,3 +27,4 @@ name, e.g., 2026.
 ## Random stuff
 
 Navigation menu is configured in `_data/navigation.yaml`.
+
