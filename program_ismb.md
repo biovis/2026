@@ -10,8 +10,6 @@ back_url: ismb
 
 {{ site.ismb_cosi_date }}
 
-Detailed program to be announced.
-
 ## Invited Speakers
 
 ### The Visual Genome: An attempt to classify multi-omics visualization
@@ -101,10 +99,6 @@ health. She has co-authored scientific open-source software adopted from Ghana
 to Canada, and she is an inventor whose ideas have been embedded into a medical
 instrument.
 
-{% comment %}
-
 ## Program
 
 {% include_relative program_ismb_timetable.html %}
-
-{% endcomment %}
