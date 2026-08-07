@@ -37,18 +37,18 @@ We are currently negotiating the possibility of publishing the conference procee
 - Submission: August 4th, 2026
 - Notification: August 12th, 2026
 - Camera-ready version: August 19th, 2026
-- Bio+MedVis Challenge event: November 9-13, 2026 (half a day event at IEEE VIS 2026, precise date to be specified)
+- Bio+MedVis Challenge event: November 9-13, 2026 (half-day event at IEEE VIS 2026, precise date to be specified)
 
 ### Conference presentation only
 We offer an extended deadline for submissions that will be considered only for the conference presentation and will not be included in proceedings.
 - Submission: August 24th, 2026
 - Notification: September 7th, 2026
-- Bio+MedVis Challenge event: November 9-13, 2026 (half a day event at IEEE VIS 2026, precise date to be specified)
+- Bio+MedVis Challenge event: November 9-13, 2026 (half-day event at IEEE VIS 2026, precise date to be specified)
 
 All submissions should follow the same guidelines specified above and will be considered as equal contenders for the challenge.
 
 ## Evaluation
-All submissions will be evaluated in a single round revision process by at least two reviewers, coming from the challenge chairs and selected domain experts. Accepted submissions will be invited to present their results as a talk at the challenge workshop at IEEE VIS 2026 and, optionally, also as a poster at IEEE VIS 2026, and will be published on the challenge website after the conference. They will also have an opportunity to get in touch with the challenge authors to pursue extended follow-up publications. 
+All submissions will be evaluated in a single-round revision process by at least two reviewers, coming from the challenge chairs and selected domain experts. Accepted submissions will be invited to present their results as a talk at the challenge workshop at IEEE VIS 2026 and, optionally, also as a poster at IEEE VIS 2026, and will be published on the challenge website after the conference. They will also have an opportunity to get in touch with the challenge authors to pursue extended follow-up publications. 
 
 Strong, creative submissions have the potential for recognition with an **Award of Merit** or an **Award of Excellence**. 
 Awards, at the discretion of evaluators, may be given according to the primary author’s status as a **_Student_** (BSc/MSc) or **_Researcher/Professional_**
