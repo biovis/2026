@@ -6,11 +6,60 @@ back_title: IEEE VIS
 back_url: biovisChallenges_vis
 ---
 
-# Bio+MedVis Challenge @ IEEE VIS 2025 – Program
+# Bio+MedVis Challenge @ IEEE VIS 2026 – Program
 
-**Sunday, November 2, 2025**  
-**9:00 AM - 12:30 PM (CET)**
+### Monday, November 9, 2026, 1:00 PM - 4:30 PM (EST)
 
+Detailed program coming soon.
+
+## Accepted submissions
+
+<table style="width: 100%;">
+<tbody>
+<tr><td>
+<strong>MammoWeave: Fidelity-First Cohort Cartography for Auditing Mammography Data and Automated Labels</strong> <br>
+Chaofan Qiao, University of Electronic Science and Technology of China 
+</td></tr>
+
+<tr><td>
+<strong>ConformaLens: conformational states in Adaptive Molecular Dynamics</strong> <br>
+Hossein Fathollahian, University of Illinois Chicago <br>
+Siyuan Zhao, University of Illinois Chicago <br>
+Marziye Salahshour,  Rush University, Chicago <br>
+Saeed Boorboor, University of Illinois Chicago <br>
+G. Elisabeta Marai, University of Illinois at Chicago 
+</td></tr>
+
+<tr><td>
+<strong>Ensemble Lens: Comparing Conformational Ensembles to Explain How Two Drug Candidates Reshape Aβ42</strong> <br>
+Augustine Nwafor, Louisiana State University <br>
+Eric First, Louisiana State University <br>
+Urska Cvek, Louisiana State University
+</td></tr>
+
+<tr><td>
+<strong>CôôrdVis-MD: From Cohorts to Conformations in Adaptive Molecular Dynamics Ensembles</strong> <br>
+Marcus Matheus Lameira de Araújo, Federal University of Pará <br>
+Bianchi Serique Meiguins, Federal University of Pará <br>
+Carlos Gustavo Resque dos Santos, Federal University of Pará
+</td></tr>
+
+<tr><td>
+<strong>StateWeaver: Tracing State Changes in Adaptive Molecular Dynamics</strong> <br>
+Nikhil Maturi, San Diego, California 
+</td></tr>
+
+<tr><td>
+<strong>StateScope: Linking Adaptive Sampling Lineage to Molecular Evidence through Visual Analysis</strong> <br>
+Mingxiang Du, Yanshan University <br>
+Sen Gao, Yanshan University <br>
+Zepeng Song, Yanshan University
+</td></tr>
+    
+</tbody>
+</table>
+
+<!--
 ## Keynote Talk
 
 <figure class="speaker-photo" style="width: min(35vw, 13em);">
@@ -247,7 +296,8 @@ Visualization and Assessment</strong> [Award of Excellence] <br>
 <td><strong>12:25 - 12:30</strong></td>
 <td>5 min</td>
 <td><strong>Closing Remarks</strong></td>
+
 </tr>
 </tbody>
 </table>
-
+-->
