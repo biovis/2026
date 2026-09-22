@@ -8,7 +8,7 @@ back_url: biovisChallenges_vis
 
 # Bio+MedVis Challenge @ IEEE VIS 2026 – Program
 
-### Monday, November 9, 2026, 1:00 PM - 4:30 PM (EST)
+### Monday, November 9, 2026, 12:00 PM - 3:30 PM
 
 Detailed program coming soon.
 
