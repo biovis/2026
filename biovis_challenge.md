@@ -6,6 +6,12 @@ permalink: /biovisChallenges_vis/
 
 # Bio+MedVis Challenge @ IEEE VIS 2026
 
+### Monday, November 9, 2026, 1:00 PM - 4:30 PM (EST)
+
+[View the program and submissions here]({{site.baseurl}}/program_ieee/).
+
+## Challenges
+
 Interested in some hands-on practice with visualizing complex biological and medical data? The Bio+MedVis Challenge is a great opportunity to explore and ideate on new, exciting ways to make sense of high-dimensional datasets from simulations and medical imaging! This year, we have two exciting challenges:
 
 <div style="float: left; margin: 0 1em 0 0; max-height: 100%;">
