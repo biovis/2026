@@ -111,7 +111,7 @@ back_url: biovisChallenges_vis
     <tr style="vertical-align: top;">
       <td style="padding: 8px;">16:05 - 16:25</td>
       <td style="padding: 8px;">20 min</td>
-      <td style="padding: 8px;"><strong>Poster Session</strong></td>
+      <td style="padding: 8px;"><strong>Poster Session & Networking</strong></td>
     </tr>
     <tr style="vertical-align: top;">
       <td style="padding: 8px;">16:25 - 16:30</td>
