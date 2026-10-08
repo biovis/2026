@@ -34,12 +34,12 @@ back_url: biovisChallenges_vis
 <tr style="vertical-align: top;">
           <td >13:55 - 14:20</td>
           <td >25 min</td>
-          <td ><strong>Introduction: Challenge I: Visual Exploration of Mammography Data</strong><div >Avanith Kanamarlapudi</div></td>
+          <td ><strong>Challenge I Introduction: Visual Exploration of Mammography Data</strong><div >Avanith Kanamarlapudi</div></td>
         </tr>
 <tr style="vertical-align: top;">
           <td >14:20 - 14:30</td>
           <td >10 min</td>
-          <td ><strong>MammoWeave: Fidelity-First Cohort Cartography for Auditing Mammography Data and Automated Labels</strong><div ><strong>Chaofan Qiao</strong>, University of Electronic Science and Technology of China, Chengdu, Sichuan, China</div></td>
+          <td ><strong>MammoWeave: Fidelity-First Cohort Cartography for Auditing Mammography Data and Automated Labels</strong><div ><em>Chaofan Qiao</em>, University of Electronic Science and Technology of China, Chengdu, Sichuan, China</div></td>
         </tr>
       </tbody>
     </table>
@@ -61,42 +61,42 @@ back_url: biovisChallenges_vis
         <tr style="vertical-align: top;">
           <td >15:00 - 15:15</td>
           <td >15 min</td>
-          <td ><strong>Introduction: Challenge II: Analysis of Conformational States in Adaptive Molecular Dynamics Simulations</strong><div >Katarina Furmanova</div></td>
+          <td ><strong>Challenge II Introduction: Analysis of Conformational States in Adaptive Molecular Dynamics Simulations</strong><div >Katarina Furmanova</div></td>
         </tr>
 <tr style="vertical-align: top;">
           <td >15:15 - 15:25</td>
           <td >10 min</td>
-          <td ><strong>StateWeaver: Tracing State Changes in Adaptive Molecular Dynamics</strong><div ><strong>Nikhil Maturi</strong>, Independent, San Diego, California, United States</div></td>
+          <td ><strong>StateWeaver: Tracing State Changes in Adaptive Molecular Dynamics</strong><div ><em>Nikhil Maturi</em>, Independent, San Diego, California, United States</div></td>
         </tr>
 <tr style="vertical-align: top;">
           <td >15:25 - 15:35</td>
           <td >10 min</td>
-          <td ><strong>StateScope: Linking Adaptive Sampling Lineage to Molecular Evidence</strong><div ><strong>Sen Gao</strong>, Yanshan University, Qinhuangdao, China</div>
-<div ><strong>Zepeng Song</strong>, Yanshan University, Qinhuangdao, China</div>
-<div ><strong>Mingxiang Du</strong>, Yanshan University, Qinhuangdao, China</div></td>
+          <td ><strong>StateScope: Linking Adaptive Sampling Lineage to Molecular Evidence</strong><div ><em>Sen Gao</em>, Yanshan University, Qinhuangdao, China</div>
+<div ><em>Zepeng Song</em>, Yanshan University, Qinhuangdao, China</div>
+<div ><em>Mingxiang Du</em>, Yanshan University, Qinhuangdao, China</div></td>
         </tr>
 <tr style="vertical-align: top;">
           <td >15:35 - 15:45</td>
           <td >10 min</td>
-          <td ><strong>Ensemble Lens: Comparing Conformational Ensembles to Explain How Two Drug Candidates Reshape Aβ42</strong><div ><strong>Augustine Nwafor</strong>, Computer Science, Louisiana State University, Shreveport, Louisiana, United States</div>
-<div ><strong>Eric First</strong>, Department of Biochemistry and Molecular Biology, Louisiana State University of Health Sciences, Shreveport, Louisiana, United States</div>
-<div ><strong>Urska Cvek</strong>, Department of Computer Science, LSU Shreveport, Shreveport, Louisiana, United States</div></td>
+          <td ><strong>Ensemble Lens: Comparing Conformational Ensembles to Explain How Two Drug Candidates Reshape Aβ42</strong><div ><em>Augustine Nwafor</em>, Computer Science, Louisiana State University, Shreveport, Louisiana, United States</div>
+<div ><em>Eric First</em>, Department of Biochemistry and Molecular Biology, Louisiana State University of Health Sciences, Shreveport, Louisiana, United States</div>
+<div ><em>Urska Cvek</em>, Department of Computer Science, LSU Shreveport, Shreveport, Louisiana, United States</div></td>
         </tr>
 <tr style="vertical-align: top;">
           <td >15:45 - 15:55</td>
           <td >10 min</td>
-          <td ><strong>CôôrdVis-MD: From Cohorts to Conformations in Adaptive Molecular Dynamics Ensembles</strong><div ><strong>Marcus Matheus Lameira de Araújo</strong>, LABVIS - Laboratory of Visualization Interaction, and Intelligent Systems, Federal University of Pará, Belém, Pará, Brazil</div>
-<div ><strong>Bianchi Serique Meiguins</strong>, LABVIS - Laboratory of Visualization, Interaction, and Intelligent Systems, Federal University of Pará, Belém, Pará, Brazil</div>
-<div ><strong>Carlos Gustavo Resque dos Santos</strong>, LABVIS - Laboratory of Visualization Interaction, and Intelligent Systems, Federal University of Pará, Belém, Pará, Brazil</div></td>
+          <td ><strong>CôôrdVis-MD: From Cohorts to Conformations in Adaptive Molecular Dynamics Ensembles</strong><div ><em>Marcus Matheus Lameira de Araújo</em>, LABVIS - Laboratory of Visualization Interaction, and Intelligent Systems, Federal University of Pará, Belém, Pará, Brazil</div>
+<div ><em>Bianchi Serique Meiguins</em>, LABVIS - Laboratory of Visualization, Interaction, and Intelligent Systems, Federal University of Pará, Belém, Pará, Brazil</div>
+<div ><em>Carlos Gustavo Resque dos Santos</em>, LABVIS - Laboratory of Visualization Interaction, and Intelligent Systems, Federal University of Pará, Belém, Pará, Brazil</div></td>
         </tr>
 <tr style="vertical-align: top;">
           <td >15:55 - 16:05</td>
           <td >10 min</td>
-          <td ><strong>ConformaLens: conformational states in Adaptive Molecular Dynamics</strong><div ><strong>Hossein Fathollahian</strong>, Electronic Visualization Laboratory, University of Illinois Chicago, Chicago, Illinois, United States</div>
-<div ><strong>Siyuan Zhao</strong>, Electronic Visualization Laboratory, University of Illinois Chicago, Chicago, Illinois, United States</div>
-<div ><strong>Marziye Salahshour</strong>, Department of Anatomy &amp; Cell Biology, Rush University, Chicago, Illinois, United States</div>
-<div ><strong>Saeed Boorboor</strong>, Computer Science, University of Illinois Chicago, Chicago, Illinois, United States</div>
-<div ><strong>G. Elisabeta Marai</strong>, Electronic Visualization Laboratory, University of Illinois at Chicago, Chicago, Illinois, United States</div></td>
+          <td ><strong>ConformaLens: conformational states in Adaptive Molecular Dynamics</strong><div ><em>Hossein Fathollahian</em>, Electronic Visualization Laboratory, University of Illinois Chicago, Chicago, Illinois, United States</div>
+<div ><em>Siyuan Zhao</em>, Electronic Visualization Laboratory, University of Illinois Chicago, Chicago, Illinois, United States</div>
+<div ><em>Marziye Salahshour</em>, Department of Anatomy &amp; Cell Biology, Rush University, Chicago, Illinois, United States</div>
+<div ><em>Saeed Boorboor</em>, Computer Science, University of Illinois Chicago, Chicago, Illinois, United States</div>
+<div ><em>G. Elisabeta Marai</em>, Electronic Visualization Laboratory, University of Illinois at Chicago, Chicago, Illinois, United States</div></td>
         </tr>
 <tr style="vertical-align: top;">
           <td >16:05 - 16:25</td>
