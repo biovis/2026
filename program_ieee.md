@@ -10,55 +10,106 @@ back_url: biovisChallenges_vis
 
 ### Monday, November 9, 2026, 13:00 PM - 4:30 PM
 
-Detailed program coming soon.
 
-## Accepted submissions
+  <h2>Block 1 (90 minutes)</h2>
+  <div class="table-wrap">
+    <table class="program-table">
+      <thead>
+        <tr>
+            <th style="text-align: left;">Time</th>
+            <th style="text-align: left;">Duration</th>
+            <th style="text-align: left;">Session</th></tr>
+      </thead>
+      <tbody>
+        <tr style="vertical-align: top;">
+          <td >13:00 - 13:10</td>
+          <td >10 min</td>
+          <td ><strong>Welcome and Introduction</strong><div >Daniel Haehn, Robert Krueger</div></td>
+        </tr>
+<tr style="vertical-align: top;">
+          <td >13:10 - 13:55</td>
+          <td >45 min</td>
+          <td ><strong>Keynote</strong><div >To be announced</div></td>
+        </tr>
+<tr style="vertical-align: top;">
+          <td >13:55 - 14:20</td>
+          <td >25 min</td>
+          <td ><strong>Introduction: Challenge I: Visual Exploration of Mammography Data</strong><div >Avanith Kanamarlapudi</div></td>
+        </tr>
+<tr style="vertical-align: top;">
+          <td >14:20 - 14:30</td>
+          <td >10 min</td>
+          <td ><strong>MammoWeave: Fidelity-First Cohort Cartography for Auditing Mammography Data and Automated Labels</strong><div ><strong>Chaofan Qiao</strong>, University of Electronic Science and Technology of China, Chengdu, Sichuan, China</div></td>
+        </tr>
+      </tbody>
+    </table>
+  </div>
 
-<table style="width: 100%;">
-<tbody>
-<tr><td>
-<strong>MammoWeave: Fidelity-First Cohort Cartography for Auditing Mammography Data and Automated Labels</strong> <br>
-Chaofan Qiao, University of Electronic Science and Technology of China 
-</td></tr>
+  <h2>Coffee Break</h2>
+  <p class="break"><strong>14:30 - 15:00</strong> (30 minutes)</p>
 
-<tr><td>
-<strong>ConformaLens: conformational states in Adaptive Molecular Dynamics</strong> <br>
-Hossein Fathollahian, University of Illinois Chicago <br>
-Siyuan Zhao, University of Illinois Chicago <br>
-Marziye Salahshour,  Rush University, Chicago <br>
-Saeed Boorboor, University of Illinois Chicago <br>
-G. Elisabeta Marai, University of Illinois at Chicago 
-</td></tr>
-
-<tr><td>
-<strong>Ensemble Lens: Comparing Conformational Ensembles to Explain How Two Drug Candidates Reshape Aβ42</strong> <br>
-Augustine Nwafor, Louisiana State University <br>
-Eric First, Louisiana State University <br>
-Urska Cvek, Louisiana State University
-</td></tr>
-
-<tr><td>
-<strong>CôôrdVis-MD: From Cohorts to Conformations in Adaptive Molecular Dynamics Ensembles</strong> <br>
-Marcus Matheus Lameira de Araújo, Federal University of Pará <br>
-Bianchi Serique Meiguins, Federal University of Pará <br>
-Carlos Gustavo Resque dos Santos, Federal University of Pará
-</td></tr>
-
-<tr><td>
-<strong>StateWeaver: Tracing State Changes in Adaptive Molecular Dynamics</strong> <br>
-Nikhil Maturi, San Diego, California 
-</td></tr>
-
-<tr><td>
-<strong>StateScope: Linking Adaptive Sampling Lineage to Molecular Evidence through Visual Analysis</strong> <br>
-Mingxiang Du, Yanshan University <br>
-Sen Gao, Yanshan University <br>
-Zepeng Song, Yanshan University
-</td></tr>
-    
-</tbody>
-</table>
-
+  <h2>Block 2 (90 minutes)</h2>
+  <div class="table-wrap">
+    <table class="program-table">
+      <thead>
+            <th style="text-align: left;">Time</th>
+            <th style="text-align: left;">Duration</th>
+            <th style="text-align: left;">Session</th></tr>>
+      </thead>
+      <tbody>
+        <tr style="vertical-align: top;">
+          <td >15:00 - 15:15</td>
+          <td >15 min</td>
+          <td ><strong>Introduction: Challenge II: Analysis of Conformational States in Adaptive Molecular Dynamics Simulations</strong><div >Katarina Furmanova</div></td>
+        </tr>
+<tr style="vertical-align: top;">
+          <td >15:15 - 15:25</td>
+          <td >10 min</td>
+          <td ><strong>StateWeaver: Tracing State Changes in Adaptive Molecular Dynamics</strong><div ><strong>Nikhil Maturi</strong>, Independent, San Diego, California, United States</div></td>
+        </tr>
+<tr style="vertical-align: top;">
+          <td >15:25 - 15:35</td>
+          <td >10 min</td>
+          <td ><strong>StateScope: Linking Adaptive Sampling Lineage to Molecular Evidence</strong><div ><strong>Sen Gao</strong>, Yanshan University, Qinhuangdao, China</div>
+<div ><strong>Zepeng Song</strong>, Yanshan University, Qinhuangdao, China</div>
+<div ><strong>Mingxiang Du</strong>, Yanshan University, Qinhuangdao, China</div></td>
+        </tr>
+<tr style="vertical-align: top;">
+          <td >15:35 - 15:45</td>
+          <td >10 min</td>
+          <td ><strong>Ensemble Lens: Comparing Conformational Ensembles to Explain How Two Drug Candidates Reshape Aβ42</strong><div ><strong>Augustine Nwafor</strong>, Computer Science, Louisiana State University, Shreveport, Louisiana, United States</div>
+<div ><strong>Eric First</strong>, Department of Biochemistry and Molecular Biology, Louisiana State University of Health Sciences, Shreveport, Louisiana, United States</div>
+<div ><strong>Urska Cvek</strong>, Department of Computer Science, LSU Shreveport, Shreveport, Louisiana, United States</div></td>
+        </tr>
+<tr style="vertical-align: top;">
+          <td >15:45 - 15:55</td>
+          <td >10 min</td>
+          <td ><strong>CôôrdVis-MD: From Cohorts to Conformations in Adaptive Molecular Dynamics Ensembles</strong><div ><strong>Marcus Matheus Lameira de Araújo</strong>, LABVIS - Laboratory of Visualization Interaction, and Intelligent Systems, Federal University of Pará, Belém, Pará, Brazil</div>
+<div ><strong>Bianchi Serique Meiguins</strong>, LABVIS - Laboratory of Visualization, Interaction, and Intelligent Systems, Federal University of Pará, Belém, Pará, Brazil</div>
+<div ><strong>Carlos Gustavo Resque dos Santos</strong>, LABVIS - Laboratory of Visualization Interaction, and Intelligent Systems, Federal University of Pará, Belém, Pará, Brazil</div></td>
+        </tr>
+<tr style="vertical-align: top;">
+          <td >15:55 - 16:05</td>
+          <td >10 min</td>
+          <td ><strong>ConformaLens: conformational states in Adaptive Molecular Dynamics</strong><div ><strong>Hossein Fathollahian</strong>, Electronic Visualization Laboratory, University of Illinois Chicago, Chicago, Illinois, United States</div>
+<div ><strong>Siyuan Zhao</strong>, Electronic Visualization Laboratory, University of Illinois Chicago, Chicago, Illinois, United States</div>
+<div ><strong>Marziye Salahshour</strong>, Department of Anatomy &amp; Cell Biology, Rush University, Chicago, Illinois, United States</div>
+<div ><strong>Saeed Boorboor</strong>, Computer Science, University of Illinois Chicago, Chicago, Illinois, United States</div>
+<div ><strong>G. Elisabeta Marai</strong>, Electronic Visualization Laboratory, University of Illinois at Chicago, Chicago, Illinois, United States</div></td>
+        </tr>
+<tr style="vertical-align: top;">
+          <td >16:05 - 16:25</td>
+          <td >20 min</td>
+          <td ><strong>Poster Session</strong></td>
+        </tr>
+<tr style="vertical-align: top;">
+          <td >16:25 - 16:30</td>
+          <td >5 min</td>
+          <td ><strong>Closing Remarks</strong><div >Daniel Haehn, Robert Krueger</div></td>
+        </tr>
+      </tbody>
+    </table>
+  </div>
 <!--
 ## Keynote Talk
 
