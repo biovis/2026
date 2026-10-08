@@ -10,20 +10,19 @@ back_url: biovisChallenges_vis
 
 ### Monday, November 9, 2026, 13:00 PM - 4:30 PM
 
-<table style="width: 100%">
-  <thead>
-    <tr>
-      <th style="text-align: left; padding: 8px;">Time</th>
-      <th style="text-align: left; padding: 8px;">Duration</th>
-      <th style="text-align: left; padding: 8px;">Session</th>
-    </tr>
-  </thead>
+<table style="width: 100%; border-collapse: collapse;">
   <tbody>
     <!-- Block 1 Header -->
+ 
     <tr>
       <td colspan="3" style="text-align: left; padding: 10px 8px 5px 8px;">
         <h3 style="margin: 0;">Block 1 (90 minutes)</h3>
       </td>
+    </tr>
+<tr>
+      <th style="text-align: left; padding: 8px;">Time</th>
+      <th style="text-align: left; padding: 8px;">Duration</th>
+      <th style="text-align: left; padding: 8px;">Session</th>
     </tr>
     <tr style="vertical-align: top;">
       <td style="padding: 8px;">13:00 - 13:10</td>
@@ -63,6 +62,11 @@ back_url: biovisChallenges_vis
       <td colspan="3" style="text-align: left; padding: 10px 8px 5px 8px;">
         <h3 style="margin: 0;">Block 2 (90 minutes)</h3>
       </td>
+    </tr>
+<tr>
+      <th style="text-align: left; padding: 8px;">Time</th>
+      <th style="text-align: left; padding: 8px;">Duration</th>
+      <th style="text-align: left; padding: 8px;">Session</th>
     </tr>
     <tr style="vertical-align: top;">
       <td style="padding: 8px;">15:00 - 15:15</td>
@@ -107,7 +111,7 @@ back_url: biovisChallenges_vis
     <tr style="vertical-align: top;">
       <td style="padding: 8px;">16:05 - 16:25</td>
       <td style="padding: 8px;">20 min</td>
-      <td style="padding: 8px;"><strong>Poster Session & Networking</strong></td>
+      <td style="padding: 8px;"><strong>Poster Session</strong></td>
     </tr>
     <tr style="vertical-align: top;">
       <td style="padding: 8px;">16:25 - 16:30</td>
