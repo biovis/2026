@@ -12,15 +12,15 @@ back_url: biovisChallenges_vis
 
 
   <h2>Block 1 (90 minutes)</h2>
-  <div class="table-wrap">
-    <table class="program-table">
-      <thead>
-        <tr>
-            <th style="text-align: left;">Time</th>
-            <th style="text-align: left;">Duration</th>
-            <th style="text-align: left;">Session</th></tr>
-      </thead>
-      <tbody>
+  <table style="width: 100%;">
+<thead>
+<tr>
+<th style="text-align: left;">Time</th>
+<th style="text-align: left;">Duration</th>
+<th style="text-align: left;">Session</th>
+</tr>
+</thead>
+<tbody>
         <tr style="vertical-align: top;">
           <td >13:00 - 13:10</td>
           <td >10 min</td>
@@ -43,20 +43,21 @@ back_url: biovisChallenges_vis
         </tr>
       </tbody>
     </table>
-  </div>
+ 
 
   <h2>Coffee Break</h2>
   <p class="break"><strong>14:30 - 15:00</strong> (30 minutes)</p>
 
   <h2>Block 2 (90 minutes)</h2>
-  <div class="table-wrap">
-    <table class="program-table">
-      <thead>
-            <th style="text-align: left;">Time</th>
-            <th style="text-align: left;">Duration</th>
-            <th style="text-align: left;">Session</th></tr>>
-      </thead>
-      <tbody>
+  <table style="width: 100%;">
+<thead>
+<tr>
+<th style="text-align: left;">Time</th>
+<th style="text-align: left;">Duration</th>
+<th style="text-align: left;">Session</th>
+</tr>
+</thead>
+<tbody>
         <tr style="vertical-align: top;">
           <td >15:00 - 15:15</td>
           <td >15 min</td>
@@ -109,7 +110,7 @@ back_url: biovisChallenges_vis
         </tr>
       </tbody>
     </table>
-  </div>
+
 <!--
 ## Keynote Talk
 
