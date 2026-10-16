@@ -10,6 +10,14 @@ back_url: biovisChallenges_vis
 
 ### Monday, November 9, 2026, 13:00 PM - 4:30 PM
 
+### Keynote Speaker: Devin Lange
+
+<figure class="speaker-photo" style="width: min(35vw, 13em);">
+    <img src="../images/biovis-challenge/devin_lange.jpeg" alt="Devin Lange">
+</figure>
+
+Devin Lange is an Assistant Professor at Purdue University, where he directs the Vizoic Research Lab within the School of Applied and Creative Computing. His research focuses on developing tools that help biomedical experts analyze complex data using interactive visualization and artificial intelligence. Driven by a commitment to supporting domain experts, his work combines human creativity and design with rigorous technical engineering. His work visualizing cell microscopy data has earned Best Paper and Honorable Mention awards at IEEE VIS. He also developed Ferret, a visualization tool that helps reviewers identify signs of manipulation in tabular scientific data. Through an ARPA-H project, he is currently integrating AI and interactive visualization to support clinicians in pediatric neuro-oncology. Prior to Purdue, he was a postdoctoral fellow in Biomedical Informatics at Harvard Medical School and earned his PhD in Computer Science from the University of Utah.
+
 <table style="width: 100%; border-collapse: collapse;">
   <tbody>
     <!-- Block 1 Header -->
@@ -121,17 +129,4 @@ back_url: biovisChallenges_vis
   </tbody>
 </table>
 
-<!--
-## Keynote Talk
 
-<figure class="speaker-photo" style="width: min(35vw, 13em);">
-    <img src="https://sbruckner.github.io/assets/img/StefanBruckner-800.webp" alt="Stefan Bruckner" />
-    <figcaption>Stefan Bruckner</figcaption>
-</figure>
-
-**From Rendering to Reasoning: Evolving Visualization for Life Sciences**  
-_[Stefan Bruckner](https://sbruckner.github.io/), Professor, Chair of Visual Analytics, University of Rostock, Germany._
-
-**Abstract:** In the past decades, visualization in the life sciences has matured from a focus on making images to a deeper mission of making sense. In this talk, I examine this evolution through the lens of human-computer collaboration: how we moved from raw rendering, to interpretable visual representation, to interactive co-exploration, and finally to reasoning and communication at scale. Along this trajectory, visualization has expanded its role from a technical enabler of data display to an intellectual partner in discovery and decision-making. The talk highlights key milestones, examples, and open challenges that illustrate how visualization increasingly serves as a medium for shared reasoning between humans, data, and intelligent systems.
-
--->
