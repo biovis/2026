@@ -8,7 +8,16 @@ permalink: /biovisChallenges_vis/
 
 ### Monday, November 9, 2026, 13:00 PM - 4:30 PM (EST)
 
-[View the program and submissions here]({{site.baseurl}}/program_ieee/).
+### Keynote Speaker: Devin Lange
+
+<figure class="speaker-photo" style="width: min(35vw, 13em);">
+    <img src="../images/biovis-challenge/devin_lange.jpeg" alt="Devin Lange">
+</figure>
+
+Devin Lange is an Assistant Professor at Purdue University, where he directs the Vizoic Research Lab within the School of Applied and Creative Computing. His research focuses on developing tools that help biomedical experts analyze complex data using interactive visualization and artificial intelligence. Driven by a commitment to supporting domain experts, his work combines human creativity and design with rigorous technical engineering. His work visualizing cell microscopy data has earned Best Paper and Honorable Mention awards at IEEE VIS. He also developed Ferret, a visualization tool that helps reviewers identify signs of manipulation in tabular scientific data. Through an ARPA-H project, he is currently integrating AI and interactive visualization to support clinicians in pediatric neuro-oncology. Prior to Purdue, he was a postdoctoral fellow in Biomedical Informatics at Harvard Medical School and earned his PhD in Computer Science from the University of Utah.
+
+
+[View the complete program and submissions here]({{site.baseurl}}/program_ieee/).
 
 ## Challenges
 
