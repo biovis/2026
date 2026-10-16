@@ -40,7 +40,7 @@ Devin Lange is an Assistant Professor at Purdue University, where he directs the
     <tr style="vertical-align: top;">
       <td style="padding: 8px;">13:10 - 13:55</td>
       <td style="padding: 8px;">45 min</td>
-      <td style="padding: 8px;"><strong>Keynote</strong><div>To be announced</div></td>
+      <td style="padding: 8px;"><strong>Keynote:</strong><div>Devin Lange</div></td>
     </tr>
     <tr style="vertical-align: top;">
       <td style="padding: 8px;">13:55 - 14:20</td>
