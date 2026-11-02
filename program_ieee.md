@@ -84,7 +84,9 @@ Devin Lange is an Assistant Professor at Purdue University, where he directs the
     <tr style="vertical-align: top;">
       <td style="padding: 8px;">15:15 - 15:25</td>
       <td style="padding: 8px;">10 min</td>
-      <td style="padding: 8px;"><strong>StateWeaver: Tracing State Changes in Adaptive Molecular Dynamics</strong><div><em>Nikhil Maturi</em>, Independent, San Diego, California, United States</div></td>
+    <td style="padding: 8px;"><strong>Ensemble Lens: Comparing Conformational Ensembles to Explain How Two Drug Candidates Reshape Aβ42</strong><div><em>Augustine Nwafor</em>, Computer Science, Louisiana State University, Shreveport, Louisiana, United States</div>
+      <div><em>Eric First</em>, Department of Biochemistry and Molecular Biology, Louisiana State University of Health Sciences, Shreveport, Louisiana, United States</div>
+      <div><em>Urska Cvek</em>, Department of Computer Science, LSU Shreveport, Shreveport, Louisiana, United States</div></td>
     </tr>
     <tr style="vertical-align: top;">
       <td style="padding: 8px;">15:25 - 15:35</td>
@@ -96,17 +98,15 @@ Devin Lange is an Assistant Professor at Purdue University, where he directs the
     <tr style="vertical-align: top;">
       <td style="padding: 8px;">15:35 - 15:45</td>
       <td style="padding: 8px;">10 min</td>
-      <td style="padding: 8px;"><strong>Ensemble Lens: Comparing Conformational Ensembles to Explain How Two Drug Candidates Reshape Aβ42</strong><div><em>Augustine Nwafor</em>, Computer Science, Louisiana State University, Shreveport, Louisiana, United States</div>
-      <div><em>Eric First</em>, Department of Biochemistry and Molecular Biology, Louisiana State University of Health Sciences, Shreveport, Louisiana, United States</div>
-      <div><em>Urska Cvek</em>, Department of Computer Science, LSU Shreveport, Shreveport, Louisiana, United States</div></td>
-    </tr>
-    <tr style="vertical-align: top;">
-      <td style="padding: 8px;">15:45 - 15:55</td>
-      <td style="padding: 8px;">10 min</td>
       <td style="padding: 8px;"><strong>CôôrdVis-MD: From Cohorts to Conformations in Adaptive Molecular Dynamics Ensembles</strong><div><em>Marcus Matheus Lameira de Araújo</em>, LABVIS - Laboratory of Visualization Interaction, and Intelligent Systems, Federal University of Pará, Belém, Pará, Brazil</div>
       <div><em>Bianchi Serique Meiguins</em>, LABVIS - Laboratory of Visualization, Interaction, and Intelligent Systems, Federal University of Pará, Belém, Pará, Brazil</div>
       <div><em>Carlos Gustavo Resque dos Santos</em>, LABVIS - Laboratory of Visualization Interaction, and Intelligent Systems, Federal University of Pará, Belém, Pará, Brazil</div></td>
-    </tr>
+    </tr>     
+    <tr style="vertical-align: top;">
+      <td style="padding: 8px;">15:45 - 15:55</td>
+      <td style="padding: 8px;">10 min</td>
+      <td style="padding: 8px;"><strong>StateWeaver: Tracing State Changes in Adaptive Molecular Dynamics</strong><div><em>Nikhil Maturi</em>, Independent, San Diego, California, United States</div></td>
+    </tr>      
     <tr style="vertical-align: top;">
       <td style="padding: 8px;">15:55 - 16:05</td>
       <td style="padding: 8px;">10 min</td>
