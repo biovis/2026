@@ -91,10 +91,8 @@ Devin Lange is an Assistant Professor at Purdue University, where he directs the
     <tr style="vertical-align: top;">
       <td style="padding: 8px;">15:25 - 15:35</td>
       <td style="padding: 8px;">10 min</td>
-      <td style="padding: 8px;"><strong>StateScope: Linking Adaptive Sampling Lineage to Molecular Evidence</strong><div><em>Sen Gao</em>, Yanshan University, Qinhuangdao, China</div>
-      <div><em>Zepeng Song</em>, Yanshan University, Qinhuangdao, China</div>
-      <div><em>Mingxiang Du</em>, Yanshan University, Qinhuangdao, China</div></td>
-    </tr>
+      <td style="padding: 8px;"><strong>StateWeaver: Tracing State Changes in Adaptive Molecular Dynamics</strong><div><em>Nikhil Maturi</em>, Independent, San Diego, California, United States</div></td>
+    </tr>      
     <tr style="vertical-align: top;">
       <td style="padding: 8px;">15:35 - 15:45</td>
       <td style="padding: 8px;">10 min</td>
@@ -105,8 +103,10 @@ Devin Lange is an Assistant Professor at Purdue University, where he directs the
     <tr style="vertical-align: top;">
       <td style="padding: 8px;">15:45 - 15:55</td>
       <td style="padding: 8px;">10 min</td>
-      <td style="padding: 8px;"><strong>StateWeaver: Tracing State Changes in Adaptive Molecular Dynamics</strong><div><em>Nikhil Maturi</em>, Independent, San Diego, California, United States</div></td>
-    </tr>      
+       <td style="padding: 8px;"><strong>StateScope: Linking Adaptive Sampling Lineage to Molecular Evidence</strong><div><em>Sen Gao</em>, Yanshan University, Qinhuangdao, China</div>
+      <div><em>Zepeng Song</em>, Yanshan University, Qinhuangdao, China</div>
+      <div><em>Mingxiang Du</em>, Yanshan University, Qinhuangdao, China</div></td>
+    </tr>
     <tr style="vertical-align: top;">
       <td style="padding: 8px;">15:55 - 16:05</td>
       <td style="padding: 8px;">10 min</td>
